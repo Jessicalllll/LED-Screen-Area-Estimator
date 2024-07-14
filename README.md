@@ -27,7 +27,7 @@ Before running this script, ensure you have the following installed:
     ```
 
 4. **Download the Model Weights**:
-    - Download the trained model weights from [this link](https://link_to_your_model_weights/best.pt) and save it in the project directory.
+    - Download the trained model weights from [this link](https://github.com/Jessicalllll/LED-Screen-Area-Estimator/blob/main/best.pt) and save it in the project directory.
 
 ## How to Run the Script
 
