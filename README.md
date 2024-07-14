@@ -13,7 +13,7 @@ Before running this script, ensure you have the following installed:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/LED-Screen-Area-Estimator.git
+    git clone https://github.com/Jessicalllll/LED-Screen-Area-Estimator
     ```
 
 2. **Navigate to the project directory**:
